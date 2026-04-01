@@ -1,0 +1,58 @@
+.shcb-message {
+  padding: 12px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+}
+
+.shcb-success {
+  background: #e7f7ed;
+  border: 1px solid #9ed0ae;
+}
+
+.shcb-warning {
+  background: #fff4e5;
+  border: 1px solid #e0b96d;
+}
+
+.shcb-booking-form-wrapper {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.shcb-booking-form-wrapper h2 {
+  margin-top: 0;
+}
+
+.shcb-booking-form-wrapper p {
+  margin-bottom: 16px;
+}
+
+.shcb-booking-form-wrapper input,
+.shcb-booking-form-wrapper select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.shcb-booking-form-wrapper button {
+  padding: 10px 16px;
+  border-radius: 4px;
+  border: none;
+  background-color: #0073aa;
+  color: white;
+  cursor: pointer;
+}
+
+.shcb-booking-form-wrapper button:hover {
+  background-color: #005177;
+}
+
+.shcb-booking-form-wrapper button + button {
+  margin-left: 10px;
+}
